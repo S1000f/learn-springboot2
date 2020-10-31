@@ -1,0 +1,40 @@
+server:
+  port: 8080
+
+property:
+  test:
+    name: property depth test
+propertyTest: test
+propertyTestList: a,b,c
+
+fruit:
+  list:
+    - name: banana
+      color: yellow
+    - name: apple
+      color: red
+
+
+
+
+
+
+
+---
+spring:
+  profiles: local
+server:
+  port: 8080
+
+---
+spring:
+  profiles: dev
+server:
+  port: 80
+
+---
+spring:
+  profiles: production
+server:
+  port: 80
+
