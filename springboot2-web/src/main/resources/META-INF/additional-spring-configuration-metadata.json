@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "kakao.client.clientId",
+      "type": "java.lang.String",
+      "description": "Description for kakao.client.clientId."
+    },
+    {
+      "name": "kakao.client.accessToken",
+      "type": "java.lang.String",
+      "description": "Description for kakao.client.accessToken."
+    },
+    {
+      "name": "kakao.client.userAuthorizationUri",
+      "type": "java.lang.String",
+      "description": "Description for kakao.client.userAuthorizationUri."
+    },
+    {
+      "name": "kakao.resource.userInfoUri",
+      "type": "java.lang.String",
+      "description": "Description for kakao.resource.userInfoUri."
+    }
+  ] }

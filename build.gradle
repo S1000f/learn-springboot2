@@ -29,7 +29,7 @@ dependencies {
     }
     compile 'com.h2database:h2:1.4.200'
     compile 'org.springframework.boot:spring-boot-starter-thymeleaf'
-    compile 'org.springframework.security.oauth:spring-security-oauth2'
+
 }
 
 test {

@@ -12,7 +12,7 @@ import java.time.LocalDateTime;
 @Setter
 @NoArgsConstructor
 @Entity
-public class User implements Serializable {
+public class User {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Id
     private Long idx;
