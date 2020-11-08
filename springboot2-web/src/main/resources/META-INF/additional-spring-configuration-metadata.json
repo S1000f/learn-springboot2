@@ -19,5 +19,10 @@
       "name": "kakao.resource.userInfoUri",
       "type": "java.lang.String",
       "description": "Description for kakao.resource.userInfoUri."
+    },
+    {
+      "name": "custom.oauth2.kakao.client-id",
+      "type": "java.lang.String",
+      "description": "Description for custom.oauth2.kakao.client-id."
     }
   ] }
