@@ -1,4 +1,4 @@
 rootProject.name = 'springboot2'
 include 'springboot2-web'
-include 'springboot2-domain'
+include 'rest-web'
 
